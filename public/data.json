@@ -1,0 +1,92 @@
+[
+    {
+    "Happy": {
+    "Pronunciation": "[ˈhæpi] [해피]",
+    "Korean Translation": "행복한",
+    "Part of Speech": "형용사 (Adjective)",
+    "Definitions": {
+    "English": "Feeling or showing pleasure or contentment.",
+    "Korean": "기쁨이나 만족을 느끼거나 나타내는 상태."
+    },
+    "Etymology": {
+    "Root": "Happy (Middle English hap, meaning 'chance, fortune')"
+    },
+    "Example Sentence": {
+    "English": "She felt happy when she saw the children playing.",
+    "Korean": "그녀는 아이들이 놀고 있는 것을 보고 행복함을 느꼈다."
+    },
+    "Word Family": {
+    "Happiness [noun] 행복": "The state of being happy.",
+    "Happily [adverb] 행복하게": "In a happy manner."
+    },
+    "Synonyms and Antonyms": {
+    "Synonyms": "Joyful, content, pleased",
+    "Antonyms": "Unhappy, sad, miserable"
+    }
+    }
+    },
+    {
+    "Love": {
+    "Pronunciation": "[lʌv] [러브]",
+    "Korean Translation": "사랑",
+    "Part of Speech": "명사 (Noun), 동사 (Verb)",
+    "Definitions": {
+    "English": {
+    "Noun": "An intense feeling of deep affection.",
+    "Verb": "Feel deep affection or sexual love for (someone)."
+    },
+    "Korean": {
+    "Noun": "깊은 애정의 강렬한 감정.",
+    "Verb": "(누군가에게) 깊은 애정이나 성적 사랑을 느끼다."
+    }
+    },
+    "Etymology": {
+    "Root": "Love (Old English lufu, of Germanic origin)"
+    },
+    "Example Sentence": {
+    "English": {
+    "Noun": "Their love for their children was evident.",
+    "Verb": "She loves her partner deeply."
+    },
+    "Korean": {
+    "Noun": "그들의 자녀에 대한 사랑은 명백했다.",
+    "Verb": "그녀는 그녀의 파트너를 깊이 사랑한다."
+    }
+    },
+    "Word Family": {
+    "Lovable [adjective] 사랑스러운": "Deserving or attracting love.",
+    "Lover [noun] 연인": "A person who loves someone or is loved by someone.",
+    "Loveless [adjective] 사랑이 없는": "Without love."
+    },
+    "Synonyms and Antonyms": {
+    "Synonyms": "Affection, adoration, fondness",
+    "Antonyms": "Hate, dislike, apathy"
+    }
+    }
+    },{
+        "Consists": {
+            "Pronunciation": "[kənˈsɪsts] [컨시츠]",
+            "Korean Translation": "구성되다",
+            "Part of Speech": "동사 (Verb)",
+            "Definitions": {
+                "English": "To be made up or composed of something.",
+                "Korean": "무엇으로 이루어지거나 구성되다."
+            },
+            "Etymology": {
+                "Root": "Consist (Late Latin consistere, from com- 'together' + sistere 'stand')"
+            },
+            "Example Sentence": {
+                "English": "The committee consists of five members.",
+                "Korean": "위원회는 다섯 명의 멤버로 구성되어 있다."
+            },
+            "Word Family": {
+                "Consistency [noun] 일관성": "Conformity in the application of something.",
+                "Consistent [adjective] 일관된": "Acting or done in the same way over time."
+            },
+            "Synonyms and Antonyms": {
+                "Synonyms": "Comprise, be composed of, be made up of",
+                "Antonyms": "Differ, disagree, contrast"
+            }
+        }
+    }
+    ]

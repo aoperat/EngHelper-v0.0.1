@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.navigation-buttons {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+@media (max-width: 600px) {
+    .card {
+        margin: 0;
+        padding: 10px;
+    }
+}
+
+.hidden-text {
+    background-color: black;
+    color: black;
+    transition: color 0.3s ease;
+}
+
+.hidden-text:hover {
+    color: white;
+}
